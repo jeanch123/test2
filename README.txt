@@ -1,4 +1,4 @@
 test2
 =====
 
-Source code deposit accompanying publication of manuscript
+Source code deposit upon publication of manuscript
